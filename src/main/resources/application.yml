@@ -3,9 +3,9 @@ spring:
     oauth2:
       client:
         registration:
-          github:
-            clientId:
-            clientSecret:
+#          github:
+#            clientId:
+#            clientSecret:
           google:
             clientId:
             clientSecret:
